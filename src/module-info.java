@@ -1,0 +1,11 @@
+/**
+ * 
+ */
+/**
+ * @author MIKA
+ *
+ */
+module MoneyTest {
+
+
+}
